@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AuthJWTApp</string>
+    <string name="welcome">Добро пожаловать в систему</string>
+    <string name="products">Локальное хранилище - Товары</string>
+    <string name="my">Личный кабинет</string>
+    <string name="auth_button">Авторизация</string>
+    <string name="in_system">Вы авторизованы</string>
+    <string name="authorization_title">Авторизация</string>
+    <string name="authorization_email_label">Логин…</string>
+    <string name="authorization_password_label">Пароль…</string>
+    <string name="next">Далее</string>
+    <string name="authorization_code_label">Введите код…</string>
+    <string name="authorization_repeat_password">Подтвердите пароль</string>
+    <string name="authorization_logout">Выход</string>
+    <string name="authorization_passwords_match_error">Пароли не совпадают</string>
+    <string name="network_error">Ошибка сети</string>
+    <string name="authorization_email_error">Введите адрес почты</string>
+    <string name="authorization_password_error">Введите пароль</string>
+    <string name="authorization_code_message">Код подтверждения отправлен на почту</string>
+</resources>
